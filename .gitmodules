@@ -7,3 +7,6 @@
 [submodule "openHEVC"]
 	path = openHEVC
 	url = https://github.com/shihuade/openHEVC.git
+[submodule "Tool-ThirdParty/RDPlot"]
+	path = Tool-ThirdParty/RDPlot
+	url = https://github.com/shihuade/RDPlot.git
