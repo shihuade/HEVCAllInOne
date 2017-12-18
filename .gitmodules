@@ -37,3 +37,6 @@
 [submodule "Mobile/AVCam-HEVC-ios"]
 	path = Mobile/AVCam-HEVC-ios
 	url = git@github.com:depthlove/AVCam-HEVC.git
+[submodule "Tools"]
+	path = Tools
+	url = https://github.com/shihuade/HEVC-Tools.git
