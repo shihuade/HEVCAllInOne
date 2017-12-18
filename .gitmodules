@@ -4,3 +4,6 @@
 [submodule "HEVCStandard"]
 	path = HEVCStandard
 	url = https://github.com/shihuade/HEVC-Reference.git
+[submodule "openHEVC"]
+	path = openHEVC
+	url = https://github.com/shihuade/openHEVC.git
