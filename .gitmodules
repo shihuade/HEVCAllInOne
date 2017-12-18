@@ -40,3 +40,6 @@
 [submodule "Tools"]
 	path = Tools
 	url = https://github.com/shihuade/HEVC-Tools.git
+[submodule "ThirdPartyCodec/libde265"]
+	path = ThirdPartyCodec/libde265
+	url = https://github.com/shihuade/libde265.git
