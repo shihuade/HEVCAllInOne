@@ -31,3 +31,6 @@
 [submodule "AITech4Codec/CTUPartitionAI"]
 	path = AITech4Codec/CTUPartitionAI
 	url = https://github.com/shihuade/CPH.git
+[submodule "MediaSolution/CDN265"]
+	path = MediaSolution/CDN265
+	url = https://github.com/CDN-Union/H265.git
