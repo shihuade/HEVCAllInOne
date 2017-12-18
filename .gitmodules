@@ -13,3 +13,6 @@
 [submodule "Tool-ThirdParty/hevcbrowser"]
 	path = Tool-ThirdParty/hevcbrowser
 	url = https://github.com/shihuade/hevcesbrowser.git
+[submodule "Tool-ThirdParty/BsrVideoAnalyzer"]
+	path = Tool-ThirdParty/BsrVideoAnalyzer
+	url = https://github.com/JieHe96/BsrVideoAnalyzer.git
