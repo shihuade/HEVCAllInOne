@@ -34,3 +34,6 @@
 [submodule "MediaSolution/CDN265"]
 	path = MediaSolution/CDN265
 	url = https://github.com/CDN-Union/H265.git
+[submodule "Mobile/AVCam-HEVC-ios"]
+	path = Mobile/AVCam-HEVC-ios
+	url = git@github.com:depthlove/AVCam-HEVC.git
