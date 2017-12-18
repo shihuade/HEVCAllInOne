@@ -28,3 +28,6 @@
 [submodule "ThirdPartyCodec/kvazaar"]
 	path = ThirdPartyCodec/kvazaar
 	url = https://github.com/shihuade/kvazaar.git
+[submodule "AITech4Codec/CTUPartitionAI"]
+	path = AITech4Codec/CTUPartitionAI
+	url = https://github.com/shihuade/CPH.git
