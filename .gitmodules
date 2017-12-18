@@ -10,3 +10,6 @@
 [submodule "Tool-ThirdParty/RDPlot"]
 	path = Tool-ThirdParty/RDPlot
 	url = https://github.com/shihuade/RDPlot.git
+[submodule "Tool-ThirdParty/hevcbrowser"]
+	path = Tool-ThirdParty/hevcbrowser
+	url = https://github.com/shihuade/hevcesbrowser.git
