@@ -1,3 +1,6 @@
 [submodule "x265"]
 	path = x265
 	url = https://github.com/shihuade/x265.git
+[submodule "HEVCStandard"]
+	path = HEVCStandard
+	url = https://github.com/shihuade/HEVC-Reference.git
