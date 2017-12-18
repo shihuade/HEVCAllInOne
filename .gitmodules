@@ -16,3 +16,9 @@
 [submodule "Tool-ThirdParty/BsrVideoAnalyzer"]
 	path = Tool-ThirdParty/BsrVideoAnalyzer
 	url = https://github.com/JieHe96/BsrVideoAnalyzer.git
+[submodule "Tool-ThirdParty/GitlHEVCAnalyzer"]
+	path = Tool-ThirdParty/GitlHEVCAnalyzer
+	url = https://github.com/lheric/GitlHEVCAnalyzer.git
+[submodule "Tool-ThirdParty/XimingCheng-HEVCAnalyzer"]
+	path = Tool-ThirdParty/XimingCheng-HEVCAnalyzer
+	url = https://github.com/XimingCheng/HEVCAnalyzer.git
