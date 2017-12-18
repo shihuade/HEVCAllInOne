@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:HEVCStandard">
+   </FileRef>
+   <FileRef
+      location = "group:LICENSE">
+   </FileRef>
+   <FileRef
+      location = "group:MediaSolution">
+   </FileRef>
+   <FileRef
+      location = "group:Mobile">
+   </FileRef>
+   <FileRef
+      location = "group:openHEVC">
+   </FileRef>
+   <FileRef
+      location = "group:ThirdPartyCodec">
+   </FileRef>
+   <FileRef
+      location = "group:Tool-ThirdParty">
+   </FileRef>
+   <FileRef
+      location = "group:Tools">
+   </FileRef>
+   <FileRef
+      location = "group:x265">
+   </FileRef>
+   <FileRef
+      location = "group:AITech4Codec">
+   </FileRef>
+   <FileRef
+      location = "group:Algorithm">
+   </FileRef>
+</Workspace>
