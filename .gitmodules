@@ -22,3 +22,9 @@
 [submodule "Tool-ThirdParty/XimingCheng-HEVCAnalyzer"]
 	path = Tool-ThirdParty/XimingCheng-HEVCAnalyzer
 	url = https://github.com/XimingCheng/HEVCAnalyzer.git
+[submodule "ThirdPartyCodec/ks265codec"]
+	path = ThirdPartyCodec/ks265codec
+	url = https://github.com/shihuade/ks265codec.git
+[submodule "ThirdPartyCodec/kvazaar"]
+	path = ThirdPartyCodec/kvazaar
+	url = https://github.com/shihuade/kvazaar.git
